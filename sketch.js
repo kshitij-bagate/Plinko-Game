@@ -41,7 +41,7 @@ function setup() {
 
 function draw() {
   
-  background("chartreuse");
+  background("black");
   textSize(20)
  //text("Score : "+score,20,30);
  
